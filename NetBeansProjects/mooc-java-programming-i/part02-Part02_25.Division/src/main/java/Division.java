@@ -9,12 +9,7 @@ public class Division {
         // should print "0.6"
 
         // division(3, 5);
-        division(3, 5);
     }
 
     // implement the method here
-    public static void division(int numerator, int denominator) {
-        float fnumerator = numerator;
-        System.out.println(fnumerator/denominator);
-    }
 }
